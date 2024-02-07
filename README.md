@@ -32,7 +32,7 @@
 </p> 
 
 ### API REST
--  [click aquí](https://api.fgmods.xyz)
+-  [click aquí](https://github.com/codespaces/new?skip_quickstart=true&machine=basicLinux32gb&repo=753897376&ref=main&geo=UsEast)
 
 ### Ejemplo 
 En caso de duda, antes de instalar dylux-bot, pruebe el bot aquí
